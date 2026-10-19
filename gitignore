@@ -1,0 +1,16 @@
+# Data files: obtain the dataset from its original source
+data/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Secrets and local environment
+.env
+.env.*
